@@ -1,7 +1,7 @@
 # hello-world
 This is the hello world github repository
 
-What to say?  
+Gethsemane 
 * I only want to say
 * If there is a way
 * Take this cup away from me
